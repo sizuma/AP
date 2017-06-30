@@ -1,10 +1,9 @@
-import java.io.BufferedReader;
+package ap06_08;
+
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
-import java.util.stream.Stream;
 
 public class Phonebook {
 
